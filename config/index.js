@@ -54,7 +54,7 @@ export const config = {
     },
     //{
       name: "刘天添",
-      id: "oAyBn60MDy1_NUZStVunPyuBproE",
+      id: "oAyBn62B4dWTgrrV3N-XMq5N9W_Y",
       useTemplateId: "MMKMIUz9ExmbhXbowSF1Isc0yJU8WWPFCinILW_RHxo",
       province: "湖北",
       city: "武汉",
