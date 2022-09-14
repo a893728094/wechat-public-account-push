@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oAyBn60MDy1_NUZStVunPyuBproE",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "MMKMIUz9ExmbhXbowSF1Isc0yJU8WWPFCinILW_RHxo",
+      useTemplateId: "EGY-Wb7Wl1-wfWdNws87BH9HrltQR2kGR-AnGbJCC9A	",
       // 所在省份
       province: "湖北",
       // 所在城市
@@ -119,11 +119,11 @@ export const config = {
    */
   FESTIVALS: [
     // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-    {"type": "*生日", "name": "老婆", "year": "1996", "date": "09-09", isShowAge: true},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
+    //{"type": "*生日", "name": "老婆", "year": "1996", "date": "09-09", isShowAge: true},
+    //{"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31", isShowAge: true},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    //{"type": "生日", "name": "李四", "year": "1996", "date": "09-31", isShowAge: true},
+    {"type": "节日", "name": "被搭讪纪念日", "year": "2022", "date": "08-04"},
     // 你可以不断按格式往下增加
     // ...
   ],
