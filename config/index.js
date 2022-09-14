@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oAyBn60MDy1_NUZStVunPyuBproE",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "oAyBn60MDy1_NUZStVunPyuBproE",
+      useTemplateId: "MMKMIUz9ExmbhXbowSF1Isc0yJU8WWPFCinILW_RHxo",
       // 所在省份
       province: "湖北",
       // 所在城市
@@ -50,7 +50,7 @@ export const config = {
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
-        {"keyword": "love_day", date: "2022-09-08"},
+        {"keyword": "love_day", date: "2022-08-04"},
         // 结婚纪念日
         //{"keyword": "marry_day", date: "2022-09-09"},
         // 退伍日
@@ -58,40 +58,16 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "刘天添",
+      id: "oAyBn60MDy1_NUZStVunPyuBproE",
+      useTemplateId: "MMKMIUz9ExmbhXbowSF1Isc0yJU8WWPFCinILW_RHxo",
+      province: "湖北",
+      city: "武汉",
+      //horoscopeDate: '',
+      //horoscopeDateType: '',
+      //openUrl: "https://wangxinleo.cn",
+      //festivals: [],
+      //customizedDateList: []
     },
     // 你可以不断按格式往下增加
     // ...
