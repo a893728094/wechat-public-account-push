@@ -25,7 +25,7 @@ export const config = {
       // 想要发送的人的名字
       name: "刘天添",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oAyBn60MDy1_NUZStVunPyuBproE",
+      id: "oAyBn62B4dWTgrrV3N-XMq5N9W_Y",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "EGY-Wb7Wl1-wfWdNws87BH9HrltQR2kGR-AnGbJCC9A",
       // 所在省份
@@ -33,7 +33,7 @@ export const config = {
       // 所在城市
       city: "武汉",
       // 新历生日, 仅用作获取星座运势, 格式必须
-      horoscopeDate: '12-25',
+      horoscopeDate: '08-04',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -63,10 +63,10 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary",
       festivals: [
          //注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "小宝贝阴历生日", "year": "1998", "date": "06-13"},
+        {"type": "*生日", "name": "小宝贝阴历", "year": "1998", "date": "06-13"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "生日", "name": "小宝贝阳历生日", "year": "1998", "date": "08-04"},
-        //{"type": "节日", "name": "在一起", "year": "2022", "date": "08-04"}
+        {"type": "生日", "name": "小宝贝阳历", "year": "1998", "date": "08-04"},
+        //{"type": "日子", "name": "在一起的", "year": "2022", "date": "08-04"}
       ],
       customizedDateList: [
       // 在一起的日子
@@ -82,7 +82,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "",
+  CALLBACK_TEMPLATE_ID: "EGY-Wb7Wl1-wfWdNws87BH9HrltQR2kGR-AnGbJCC9A",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -152,13 +152,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
-    // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
-    // 退伍日
-    //{"keyword": "ex_day", date: "2022-09-10"},
-    // 你可以不断按格式往下增加
-    // ...
+    {"keyword": "love_day", date: "2022-08-04"},
   ],
 
   /** 插槽 */
