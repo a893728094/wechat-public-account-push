@@ -52,7 +52,7 @@ export const config = {
         {"keyword": "love_day", date: "2022-08-04"}
       ]
     },
-    //{
+    {
       name: "刘天添",
       id: "oAyBn62B4dWTgrrV3N-XMq5N9W_Y",
       useTemplateId: "MMKMIUz9ExmbhXbowSF1Isc0yJU8WWPFCinILW_RHxo",
@@ -72,7 +72,7 @@ export const config = {
       // 在一起的日子
         {"keyword": "love_day", date: "2022-08-04"}
       ]
-    //},
+    },
     // 你可以不断按格式往下增加
     // ...
   ],
